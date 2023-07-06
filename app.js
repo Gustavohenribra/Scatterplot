@@ -423,7 +423,7 @@ svg.append("g")
   .attr("transform", "translate(" + (width - spacing) + "," + (spacing - 10) + ")");
 
   legend.append("text")
-  .attr("x", -120)
+  .attr("x", -280)
   .attr("y", -1140)
   .attr("transform", "rotate(-90)")
   .attr("font-size", "20")
